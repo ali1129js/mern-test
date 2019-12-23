@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "simple express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ali1129js/mern-test.git"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ali1129js/mern-test/issues"
+  },
+  "homepage": "https://github.com/ali1129js/mern-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
