@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ali1129js/mern-test#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "mongodb": "^3.4.1",
     "mongoose": "^5.8.3"
